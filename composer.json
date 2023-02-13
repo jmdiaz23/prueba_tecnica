@@ -1,0 +1,20 @@
+{
+    "name": "developapp/prueba",
+    "description": "creacion de una app de productos",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge Diaz",
+            "email": "jorgemariodiaz7@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    }
+}
